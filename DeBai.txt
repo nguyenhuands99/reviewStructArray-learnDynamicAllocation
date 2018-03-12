@@ -1,0 +1,8 @@
+Bai 01:
+Viết chương trình, thực hiện các yêu cầu sau:
+1. Nhập vào mảng các điểm (hoành độ x, tung độ y) trong mặt phẳng Oxy
+2. Xuất mảng các điểm ra màn hình
+3. Nhập vào tọa độ điểm A(x,y). Tìm điểm trong mảng cách xa điểm A nhất, nếu có
+nhiều điểm cùng xa A nhất thì chỉ trả về 1 điểm trong số đó.
+4. Liệt kê các điểm có tọa độ dương trong mảng
+5. Sắp xếp mảng các điểm tăng dần theo khoảng cách từ điểm đến gốc tọa độ O
