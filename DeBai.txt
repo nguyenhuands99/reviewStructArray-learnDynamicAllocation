@@ -6,3 +6,11 @@ Viết chương trình, thực hiện các yêu cầu sau:
 nhiều điểm cùng xa A nhất thì chỉ trả về 1 điểm trong số đó.
 4. Liệt kê các điểm có tọa độ dương trong mảng
 5. Sắp xếp mảng các điểm tăng dần theo khoảng cách từ điểm đến gốc tọa độ O
+Bai 02:
+Viết chương trình thực hiện các chức năng sau:
+1. Nhập vào mảng các tam giác
+2. Xuất mảng các tam giác ra màn hình
+3. Tìm tam giác có chu vi lớn nhất
+4. Tính tổng diện tích các tam giác
+5. Đếm các tam giác có diện tích lớn hơn diện tích trung bình trong mảng
+6. Sắp xếp mảng các tam giác giảm dần theo chu vi
