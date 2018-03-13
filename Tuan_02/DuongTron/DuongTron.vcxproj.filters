@@ -15,27 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TamGiac.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="MangTamGiac.h">
+    <ClInclude Include="DuongTron.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Diem.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="MangDuongTron.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TamGiac.cpp">
+    <ClCompile Include="Diem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MangTamGiac.cpp">
+    <ClCompile Include="DuongTron.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Diem.cpp">
+    <ClCompile Include="MangDuongTron.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

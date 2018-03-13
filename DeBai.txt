@@ -14,3 +14,11 @@ Viết chương trình thực hiện các chức năng sau:
 4. Tính tổng diện tích các tam giác
 5. Đếm các tam giác có diện tích lớn hơn diện tích trung bình trong mảng
 6. Sắp xếp mảng các tam giác giảm dần theo chu vi
+Bai 03:
+Viết chương trình thực hiện các chức năng sau:
+1. Nhập vào mảng các đường tròn
+2. Xuất mảng các đường tròn ra màn hình
+3. Tìm đường tròn có chu vi lớn nhất
+4. Tính tổng diện tích các đường tròn
+5. Đếm các đường tròn có diện tích lớn hơn diện tích trung bình trong mảng
+6. Sắp xếp mảng các đường tròn giảm dần theo chu vi

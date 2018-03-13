@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{4C42D599-633F-4A40-9273-F2A271E15516}</ProjectGuid>
-    <RootNamespace>MangTamGiac</RootNamespace>
+    <ProjectGuid>{EE5F8DFB-DC32-4D61-92FA-236170716C5A}</ProjectGuid>
+    <RootNamespace>DuongTron</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -112,14 +112,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Diem.h" />
-    <ClInclude Include="MangTamGiac.h" />
-    <ClInclude Include="TamGiac.h" />
+    <ClInclude Include="DuongTron.h" />
+    <ClInclude Include="MangDuongTron.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Diem.cpp" />
+    <ClCompile Include="DuongTron.cpp" />
     <ClCompile Include="Main.cpp" />
-    <ClCompile Include="MangTamGiac.cpp" />
-    <ClCompile Include="TamGiac.cpp" />
+    <ClCompile Include="MangDuongTron.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
