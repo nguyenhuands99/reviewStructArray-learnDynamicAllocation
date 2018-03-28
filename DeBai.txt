@@ -22,3 +22,46 @@ Viết chương trình thực hiện các chức năng sau:
 4. Tính tổng diện tích các đường tròn
 5. Đếm các đường tròn có diện tích lớn hơn diện tích trung bình trong mảng
 6. Sắp xếp mảng các đường tròn giảm dần theo chu vi
+Bai 04:
+Cho danh sách các món ăn và phần ăn như trong bảng 1 và bảng 2. Hãy suy nghĩ
+các tổ chức dữ liệu để vừa tiết kiệm không gian bộ nhớ vừa đảm bảo thực hiện dễ dàng
+việc chọn một phần ăn, hiển thị danh sách các món ăn trong phần ăn kèm giá tiền, tổng
+tiền của các món ăn và số tiền cần thanh toán (giảm 10% so với tổng tiền).
+Món ăn         | Giá tiền
+Burger         | 130
+Cheese burger  | 150
+Chicken burger |200
+Drink          | 130
+Potato         |120
+Ice cream      |160
+Bảng 1: Danh sách món ăn
+Phần ăn Các món ăn
+A Burger, Drink, Potato
+B Cheese burger, Drink, Potato
+C Chicken burger, Drink, Potato
+D Chicken burger, Drink, Potato, Ice cream
+Bảng 2: Danh sách phần ăn
+Chọn một trong các phần ăn sau
+1: Phần ăn A (Burger, Drink, Potato)
+2: Phần ăn B (Cheese burger, Drink, Potato)
+3: Phần ăn C (Chicken burger, Drink, Potato)
+4: Phần ăn D (Chicken burger, Drink, Potato, Ice cream)
+2
+******** Phần ăn B *********
+Cheese burger: 150 JPY
+Drink: 130 JPY
+Potato: 120 JPY
+----------------------------
+Tông giá trị món : 400 JPY
+Giá trị phần ăn : 360 JPY
+Bài 05: Đoạn mã nguồn trong bảng 10 sẽ khởi tạo một mảng động với số lượng phần tử
+do người dùng cung cấp. Sau đó, người dùng sẽ cung cấp cấp kích thước mới của mảng
+và chương trình sẽ thay đổi kích thước của mảng tương ứng. Tuy nhiên, phần mã nguồn
+được cung cấp thiếu một số phần. Các bạn sẽ bổ sung những phần thiếu, đặc biệt là
+những câu lệnh liên quan tới việc quản lý bộ nhớ. Hãy biên dịch và thực thi chương trình thành công.
+Bài 06: Thực hiện lại bài 1 nhưng sử dụng kiểu vector trong STL của C++
+Bai 07: Viết chương trình cho phép người dùng nhập n số nguyên và sử dụng mảng cấp
+phát động để lưu trữ. Xuất kết quả sử dụng hàm qsort được cung cấp sẵn trong thư viện
+stdlib.h để sắp xếp mảng x tăng hay giảm dần (tùy người dùng chọn).
+Bai 08: Sử dụng bài tập kiểu dữ liệu sinh viên ở tuần 1 kết hợp sử dụng mảng cấp phát
+động để lưu danh sách sinh viên, qsort để sắp xếp lại danh sách theo thứ tự giảm/tăng dần sau đó xuất kết quả.
